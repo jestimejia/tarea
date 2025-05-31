@@ -1,0 +1,25 @@
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: rgb(80, 184, 48);
+
+    height: 50px;
+    
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
