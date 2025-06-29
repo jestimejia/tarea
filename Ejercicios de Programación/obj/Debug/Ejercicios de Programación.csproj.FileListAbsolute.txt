@@ -1,0 +1,23 @@
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\bin\Debug\Ejercicios de Programación.exe.config
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\bin\Debug\Ejercicios de Programación.exe
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\bin\Debug\Ejercicios de Programación.pdb
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios de Programación.csproj.AssemblyReference.cache
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios_de_Programación.Form1.resources
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios_de_Programación.Properties.Resources.resources
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios de Programación.csproj.GenerateResource.cache
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios de Programación.csproj.CoreCompileInputs.cache
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios de Programación.exe
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios de Programación.pdb
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios_de_Programación.Form2.resources
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios_de_Programación.Form3.resources
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios_de_Programación.Form4.resources
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios_de_Programación.Form5.resources
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios_de_Programación.Form6.resources
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios_de_Programación.Form7.resources
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios_de_Programación.Form8.resources
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios_de_Programación.Form9.resources
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios_de_Programación.Form10.resources
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios_de_Programación.Form11.resources
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios_de_Programación.Form12.resources
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios_de_Programación.Form13.resources
+C:\Users\rocka\source\repos\Ejercicios de Programación\Ejercicios de Programación\obj\Debug\Ejercicios_de_Programación.Form14.resources
